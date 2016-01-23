@@ -11,8 +11,8 @@ public class World {
 		System.out.println(age);
 
 		String name = "kaka";
-		String swing ="koukou";
-		String swing ="koukou";
+		String swing2 ="koukou";
+		String swing3 ="koukou";
 	}
 
 }
