@@ -11,6 +11,8 @@ public class World {
 		System.out.println(age);
 
 		String name = "kaka";
+		String name1 = "kaka";
+		String name2 = "kaka";
 	}
 
 }
