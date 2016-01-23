@@ -9,15 +9,6 @@ public class World {
 
 		int age = 10;
 		System.out.println(age);
-
-		String name = "kaka";
-
-		String name1 = "kaka";
-		String name2 = "kaka";
-
-		String swing2 ="koukou";
-		String swing3 ="koukou";
-
 	}
 
 }
