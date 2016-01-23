@@ -9,6 +9,7 @@ public class World {
 
 		int age = 10;
 		System.out.println(age);
+		System.out.println("100");
 	}
 
 }
